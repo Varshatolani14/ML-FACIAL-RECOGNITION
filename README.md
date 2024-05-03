@@ -664,4 +664,4 @@ def split_data(faces, faces_labels, non_faces,non_faces_labels,non_faces_count,a
 ## Contributors
 
 - <strong> [Mohamed Wael](https://github.com/mado2002)</strong> <br>
-- <strong> [Ahmed Samir](https://github.com/ahmedsamir459)</strong> <br>
+- <strong> [Ahmed Samir](https://github.com/ahmedsamirsaid)</strong> <br>
