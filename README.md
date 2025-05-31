@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # **Face Recognition Using PCA & LDA Algorithms for Dimensionality Reduction (Eigen Faces)**
 
 ## PCA
@@ -663,5 +664,8 @@ def split_data(faces, faces_labels, non_faces,non_faces_labels,non_faces_count,a
 
 ## Contributors
 
-- <strong> [Mohamed Wael](https://github.com/mado2002)</strong> <br>
-- <strong> [Ahmed Samir](https://github.com/ahmedsamirsaid)</strong> <br>
+- <strong> [Varsha Tolani](https://github.com/Varshatolani14/)</strong> <br>
+=======
+# ML-FACIAL-RECOGNITION
+Face Recognition Using PCA &amp; LDA Algorithms for Dimensionality Reduction (Eigen Faces)
+>>>>>>> 1a7b9aa13cd015c7287bfec98e64c0dd991c7618
